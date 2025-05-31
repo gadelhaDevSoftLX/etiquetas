@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Etiquetas de Alimentos",
+  "description": "Aplicativo para gerar etiquetas de alimentos para restaurantes, com envio de dados para impressão via webhook n8n.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
